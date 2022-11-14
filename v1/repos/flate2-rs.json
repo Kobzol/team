@@ -1,0 +1,29 @@
+{
+  "org": "rust-lang",
+  "name": "flate2-rs",
+  "description": "DEFLATE, gzip, and zlib bindings for Rust",
+  "bots": [],
+  "teams": [
+    {
+      "name": "crate-maintainers",
+      "permission": "maintain"
+    }
+  ],
+  "members": [
+    {
+      "name": "alexcrichton",
+      "permission": "maintain"
+    },
+    {
+      "name": "brson",
+      "permission": "write"
+    }
+  ],
+  "branches": [
+    {
+      "name": "main",
+      "ci_checks": [],
+      "dismiss_stale_review": false
+    }
+  ]
+}

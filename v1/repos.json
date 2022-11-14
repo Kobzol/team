@@ -1,0 +1,362 @@
+{
+  "rust-lang": [
+    {
+      "org": "rust-lang",
+      "name": "backtrace-rs",
+      "description": "Backtraces in Rust",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [
+        {
+          "name": "alexcrichton",
+          "permission": "write"
+        }
+      ],
+      "branches": [
+        {
+          "name": "master",
+          "ci_checks": [],
+          "dismiss_stale_review": false
+        }
+      ]
+    },
+    {
+      "org": "rust-lang",
+      "name": "cc-rs",
+      "description": "Rust library for build scripts to compile C/C++ code into a Rust library",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": [
+        {
+          "name": "main",
+          "ci_checks": [],
+          "dismiss_stale_review": false
+        }
+      ]
+    },
+    {
+      "org": "rust-lang",
+      "name": "cfg-if",
+      "description": "A if/elif-like macro for Rust #[cfg] statements",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "cmake-rs",
+      "description": "Rust build dependency for running cmake",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "compiler-builtins",
+      "description": "Porting `compiler-rt` intrinsics to Rust",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "flate2-rs",
+      "description": "DEFLATE, gzip, and zlib bindings for Rust",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [
+        {
+          "name": "alexcrichton",
+          "permission": "maintain"
+        },
+        {
+          "name": "brson",
+          "permission": "write"
+        }
+      ],
+      "branches": [
+        {
+          "name": "main",
+          "ci_checks": [],
+          "dismiss_stale_review": false
+        }
+      ]
+    },
+    {
+      "org": "rust-lang",
+      "name": "getopts",
+      "description": "The getopts repo maintained by the rust-lang project",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "glob",
+      "description": "Support for matching file paths against Unix shell style patterns.",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "libc",
+      "description": "Raw bindings to platform APIs for Rust",
+      "bots": [
+        "bors",
+        "highfive",
+        "rustbot"
+      ],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": [
+        {
+          "name": "master",
+          "ci_checks": [],
+          "dismiss_stale_review": false
+        }
+      ]
+    },
+    {
+      "org": "rust-lang",
+      "name": "libm",
+      "description": "A port of MUSL's libm to Rust.",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "libz-sys",
+      "description": "Rust crate package to link to a system libz (zlib)",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "log",
+      "description": "Logging implementation for Rust",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "pkg-config-rs",
+      "description": "Build library for invoking pkg-config for Rust",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [
+        {
+          "name": "sdroege",
+          "permission": "write"
+        }
+      ],
+      "branches": []
+    },
+    {
+      "org": "rust-lang",
+      "name": "project-exploit-mitigations",
+      "description": "Exploit Mitigations Project Group",
+      "bots": [],
+      "teams": [
+        {
+          "name": "core",
+          "permission": "admin"
+        },
+        {
+          "name": "mods",
+          "permission": "maintain"
+        },
+        {
+          "name": "project-exploit-mitigations",
+          "permission": "maintain"
+        }
+      ],
+      "members": [],
+      "branches": [
+        {
+          "name": "main",
+          "ci_checks": [],
+          "dismiss_stale_review": true
+        }
+      ]
+    },
+    {
+      "org": "rust-lang",
+      "name": "rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "bots": [
+        "bors",
+        "rustbot"
+      ],
+      "teams": [
+        {
+          "name": "wg-rls-2-triage",
+          "permission": "triage"
+        },
+        {
+          "name": "wg-rls-2",
+          "permission": "write"
+        }
+      ],
+      "members": [],
+      "branches": [
+        {
+          "name": "master",
+          "ci_checks": [],
+          "dismiss_stale_review": false
+        }
+      ]
+    },
+    {
+      "org": "rust-lang",
+      "name": "socket2",
+      "description": "Advanced configuration options for sockets.",
+      "bots": [],
+      "teams": [
+        {
+          "name": "crate-maintainers",
+          "permission": "maintain"
+        }
+      ],
+      "members": [
+        {
+          "name": "chansuke",
+          "permission": "triage"
+        },
+        {
+          "name": "sfackler",
+          "permission": "maintain"
+        },
+        {
+          "name": "Thomasdezeeuw",
+          "permission": "maintain"
+        },
+        {
+          "name": "carllerche",
+          "permission": "maintain"
+        },
+        {
+          "name": "Darksonn",
+          "permission": "maintain"
+        }
+      ],
+      "branches": [
+        {
+          "name": "master",
+          "ci_checks": [
+            "Rustfmt",
+            "Test (beta)",
+            "Test (macos)",
+            "Test (nightly)",
+            "Test (stable)",
+            "Test (windows)"
+          ],
+          "dismiss_stale_review": false
+        }
+      ]
+    },
+    {
+      "org": "rust-lang",
+      "name": "team",
+      "description": "Rust teams structure",
+      "bots": [],
+      "teams": [
+        {
+          "name": "mods",
+          "permission": "maintain"
+        },
+        {
+          "name": "core",
+          "permission": "admin"
+        }
+      ],
+      "members": [],
+      "branches": [
+        {
+          "name": "master",
+          "ci_checks": [
+            "CI"
+          ],
+          "dismiss_stale_review": true
+        }
+      ]
+    }
+  ]
+}

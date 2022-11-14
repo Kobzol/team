@@ -1,0 +1,69 @@
+{
+  "name": "cloud-compute",
+  "kind": "marker_team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": " Aïssata Maiga",
+      "github": "Dajamante",
+      "github_id": 40670675,
+      "is_lead": false
+    },
+    {
+      "name": "Jacob Pratt",
+      "github": "jhpratt",
+      "github_id": 3161395,
+      "is_lead": false
+    },
+    {
+      "name": "Joel Marcey",
+      "github": "JoelMarcey",
+      "github_id": 3757713,
+      "is_lead": false
+    },
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": false
+    },
+    {
+      "name": "Oguz",
+      "github": "ouz-a",
+      "github_id": 90461915,
+      "is_lead": false
+    },
+    {
+      "name": "Waffle Maybe",
+      "github": "WaffleLapkin",
+      "github_id": 38225716,
+      "is_lead": false
+    },
+    {
+      "name": "Jane Lusby",
+      "github": "yaahc",
+      "github_id": 1993852,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "cloud-compute-team",
+        "members": [
+          40670675,
+          3757713,
+          38225716,
+          3161395,
+          813007,
+          90461915,
+          1993852
+        ]
+      }
+    ]
+  },
+  "website_data": null,
+  "discord": []
+}

@@ -1,0 +1,931 @@
+{
+  "groups": {
+    "T-cargo": {
+      "name": "T-cargo",
+      "members": [
+        {
+          "id": 120179
+        },
+        {
+          "id": 120518
+        },
+        {
+          "id": 239881
+        },
+        {
+          "id": 245964
+        },
+        {
+          "id": 424212
+        }
+      ]
+    },
+    "T-clippy": {
+      "name": "T-clippy",
+      "members": [
+        {
+          "id": 132040
+        },
+        {
+          "id": 239861
+        },
+        {
+          "id": 264664
+        },
+        {
+          "id": 316507
+        },
+        {
+          "id": 360405
+        },
+        {
+          "id": 369415
+        },
+        {
+          "id": 399480
+        },
+        {
+          "id": 431151
+        },
+        {
+          "email": "bogusandre@gmail.com"
+        },
+        {
+          "email": "matthias.krueger@famsik.de"
+        }
+      ]
+    },
+    "T-compiler": {
+      "name": "T-compiler",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116083
+        },
+        {
+          "id": 116107
+        },
+        {
+          "id": 116118
+        },
+        {
+          "id": 119009
+        },
+        {
+          "id": 123586
+        },
+        {
+          "id": 123856
+        },
+        {
+          "id": 124287
+        },
+        {
+          "id": 124288
+        },
+        {
+          "id": 248906
+        },
+        {
+          "email": "aa1ronham@gmail.com"
+        },
+        {
+          "email": "esteban@kuber.com.ar"
+        },
+        {
+          "email": "rust@lcnr.de"
+        },
+        {
+          "email": "wwiser@gmail.com"
+        }
+      ]
+    },
+    "T-compiler/meeting": {
+      "name": "T-compiler/meeting",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116083
+        },
+        {
+          "id": 116107
+        },
+        {
+          "id": 116118
+        },
+        {
+          "id": 116122
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 119009
+        },
+        {
+          "id": 123586
+        },
+        {
+          "id": 123856
+        },
+        {
+          "id": 124287
+        },
+        {
+          "id": 124288
+        },
+        {
+          "id": 126804
+        },
+        {
+          "id": 133247
+        },
+        {
+          "id": 153740
+        },
+        {
+          "id": 232957
+        },
+        {
+          "id": 248906
+        },
+        {
+          "email": "aa1ronham@gmail.com"
+        },
+        {
+          "email": "aturon@mozilla.com"
+        },
+        {
+          "email": "cramertaylorj@gmail.com"
+        },
+        {
+          "email": "esteban@kuber.com.ar"
+        },
+        {
+          "email": "github@varkor.com"
+        },
+        {
+          "email": "nellshamrell@gmail.com"
+        },
+        {
+          "email": "rust@lcnr.de"
+        },
+        {
+          "email": "wwiser@gmail.com"
+        }
+      ]
+    },
+    "T-crate-maintainers": {
+      "name": "T-crate-maintainers",
+      "members": [
+        {
+          "id": 143274
+        },
+        {
+          "id": 217081
+        },
+        {
+          "id": 239881
+        },
+        {
+          "email": "chiovolonit@gmail.com"
+        },
+        {
+          "email": "christophersdenton@gmail.com"
+        },
+        {
+          "email": "kodraus@hey.com"
+        },
+        {
+          "email": "the8472.rs@infinite-source.de"
+        },
+        {
+          "email": "workingjubilee@gmail.com"
+        }
+      ]
+    },
+    "T-crates-io": {
+      "name": "T-crates-io",
+      "members": [
+        {
+          "id": 217081
+        },
+        {
+          "id": 219929
+        },
+        {
+          "id": 257369
+        },
+        {
+          "id": 257516
+        },
+        {
+          "id": 282338
+        },
+        {
+          "id": 459395
+        },
+        {
+          "id": 527401
+        }
+      ]
+    },
+    "T-crates-io-on-call": {
+      "name": "T-crates-io-on-call",
+      "members": [
+        {
+          "id": 121055
+        },
+        {
+          "id": 211727
+        },
+        {
+          "id": 215333
+        },
+        {
+          "id": 499958
+        },
+        {
+          "id": 529812
+        },
+        {
+          "id": 534379
+        }
+      ]
+    },
+    "T-infra": {
+      "name": "T-infra",
+      "members": [
+        {
+          "id": 116122
+        },
+        {
+          "id": 116155
+        },
+        {
+          "id": 121055
+        },
+        {
+          "id": 232545
+        },
+        {
+          "id": 534108
+        },
+        {
+          "email": "aidanhs@cantab.net"
+        },
+        {
+          "email": "kennytm@gmail.com"
+        },
+        {
+          "email": "me@ryanlevick.com"
+        }
+      ]
+    },
+    "T-lang": {
+      "name": "T-lang",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116083
+        },
+        {
+          "id": 125270
+        },
+        {
+          "id": 239881
+        },
+        {
+          "email": "cramertaylorj@gmail.com"
+        }
+      ]
+    },
+    "T-libs": {
+      "name": "T-libs",
+      "members": [
+        {
+          "id": 138448
+        },
+        {
+          "id": 143274
+        },
+        {
+          "id": 220273
+        },
+        {
+          "id": 239881
+        },
+        {
+          "email": "m-ou.se@m-ou.se"
+        },
+        {
+          "email": "the8472.rs@infinite-source.de"
+        }
+      ]
+    },
+    "T-libs-api": {
+      "name": "T-libs-api",
+      "members": [
+        {
+          "id": 119235
+        },
+        {
+          "id": 143274
+        },
+        {
+          "id": 220273
+        },
+        {
+          "id": 239881
+        },
+        {
+          "email": "jamslam@gmail.com"
+        },
+        {
+          "email": "m-ou.se@m-ou.se"
+        }
+      ]
+    },
+    "T-miri": {
+      "name": "T-miri",
+      "members": [
+        {
+          "id": 120791
+        },
+        {
+          "id": 120827
+        },
+        {
+          "id": 124288
+        }
+      ]
+    },
+    "T-release": {
+      "name": "T-release",
+      "members": [
+        {
+          "id": 116122
+        },
+        {
+          "id": 116883
+        },
+        {
+          "id": 120823
+        },
+        {
+          "id": 121055
+        },
+        {
+          "id": 138448
+        }
+      ]
+    },
+    "T-rustdoc": {
+      "name": "T-rustdoc",
+      "members": [
+        {
+          "id": 132040
+        },
+        {
+          "id": 210053
+        },
+        {
+          "id": 210267
+        },
+        {
+          "id": 210316
+        },
+        {
+          "id": 307537
+        },
+        {
+          "id": 315412
+        },
+        {
+          "email": "runetynan@gmail.com"
+        }
+      ]
+    },
+    "T-style": {
+      "name": "T-style",
+      "members": [
+        {
+          "id": 220273
+        },
+        {
+          "id": 239881
+        },
+        {
+          "id": 320317
+        },
+        {
+          "id": 426609
+        }
+      ]
+    },
+    "T-types": {
+      "name": "T-types",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 124288
+        },
+        {
+          "id": 232957
+        },
+        {
+          "id": 426609
+        },
+        {
+          "email": "rust@lcnr.de"
+        }
+      ]
+    },
+    "T-types/meetings": {
+      "name": "T-types/meetings",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 124288
+        },
+        {
+          "id": 232957
+        },
+        {
+          "id": 421986
+        },
+        {
+          "id": 426609
+        },
+        {
+          "email": "rust@lcnr.de"
+        }
+      ]
+    },
+    "WG-async": {
+      "name": "WG-async",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116083
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 116883
+        },
+        {
+          "id": 124287
+        },
+        {
+          "id": 211722
+        },
+        {
+          "id": 213313
+        },
+        {
+          "id": 421986
+        },
+        {
+          "email": "esteban@kuber.com.ar"
+        },
+        {
+          "email": "guswynn@gmail.com"
+        },
+        {
+          "email": "nrc@ncameron.org"
+        }
+      ]
+    },
+    "WG-async-sprint-planning": {
+      "name": "WG-async-sprint-planning",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116083
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 116883
+        },
+        {
+          "id": 124287
+        },
+        {
+          "id": 211722
+        },
+        {
+          "id": 213313
+        },
+        {
+          "id": 421986
+        },
+        {
+          "email": "esteban@kuber.com.ar"
+        },
+        {
+          "email": "guswynn@gmail.com"
+        },
+        {
+          "email": "nrc@ncameron.org"
+        }
+      ]
+    },
+    "WG-const-eval": {
+      "name": "WG-const-eval",
+      "members": [
+        {
+          "id": 120791
+        },
+        {
+          "id": 124288
+        },
+        {
+          "id": 361356
+        },
+        {
+          "email": "rust@lcnr.de"
+        }
+      ]
+    },
+    "WG-ffi-unwind": {
+      "name": "WG-ffi-unwind",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 120076
+        },
+        {
+          "id": 132829
+        },
+        {
+          "id": 132920
+        },
+        {
+          "id": 133247
+        },
+        {
+          "id": 143274
+        },
+        {
+          "id": 237472
+        },
+        {
+          "id": 239881
+        },
+        {
+          "id": 257758
+        },
+        {
+          "id": 303710
+        },
+        {
+          "id": 327458
+        }
+      ]
+    },
+    "WG-mir-opt": {
+      "name": "WG-mir-opt",
+      "members": [
+        {
+          "id": 116107
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 119009
+        },
+        {
+          "id": 124288
+        },
+        {
+          "id": 310518
+        },
+        {
+          "email": "vertexclique@gmail.com"
+        },
+        {
+          "email": "wwiser@gmail.com"
+        }
+      ]
+    },
+    "WG-parallel-rustc": {
+      "name": "WG-parallel-rustc",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116122
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 138448
+        },
+        {
+          "email": "alex@alexcrichton.com"
+        }
+      ]
+    },
+    "WG-polymorphization": {
+      "name": "WG-polymorphization",
+      "members": [
+        {
+          "id": 116107
+        },
+        {
+          "id": 119009
+        },
+        {
+          "email": "rust@lcnr.de"
+        }
+      ]
+    },
+    "WG-prioritization": {
+      "name": "WG-prioritization",
+      "members": [
+        {
+          "id": 116083
+        },
+        {
+          "id": 120823
+        },
+        {
+          "id": 217081
+        },
+        {
+          "id": 218378
+        },
+        {
+          "id": 218578
+        },
+        {
+          "id": 230287
+        },
+        {
+          "id": 250987
+        },
+        {
+          "id": 256313
+        },
+        {
+          "id": 307537
+        },
+        {
+          "id": 331617
+        },
+        {
+          "id": 342566
+        },
+        {
+          "id": 342568
+        },
+        {
+          "id": 342587
+        },
+        {
+          "id": 342723
+        },
+        {
+          "id": 342744
+        },
+        {
+          "id": 343418
+        },
+        {
+          "id": 345400
+        },
+        {
+          "id": 417924
+        },
+        {
+          "email": "rust@lcnr.de"
+        },
+        {
+          "email": "takoyaki0316@gmail.com"
+        },
+        {
+          "email": "wwiser@gmail.com"
+        }
+      ]
+    },
+    "WG-prioritization/alerts": {
+      "name": "WG-prioritization/alerts",
+      "members": [
+        {
+          "id": 217081
+        },
+        {
+          "id": 218378
+        },
+        {
+          "id": 218578
+        },
+        {
+          "id": 230287
+        },
+        {
+          "id": 250987
+        },
+        {
+          "id": 256313
+        },
+        {
+          "id": 342566
+        },
+        {
+          "id": 342568
+        },
+        {
+          "id": 342587
+        },
+        {
+          "id": 342723
+        },
+        {
+          "id": 342744
+        },
+        {
+          "id": 343418
+        },
+        {
+          "id": 345400
+        },
+        {
+          "email": "wwiser@gmail.com"
+        }
+      ]
+    },
+    "WG-rustc-dev-guide": {
+      "name": "WG-rustc-dev-guide",
+      "members": [
+        {
+          "id": 116266
+        },
+        {
+          "id": 119529
+        },
+        {
+          "id": 209053
+        },
+        {
+          "id": 217081
+        },
+        {
+          "id": 307537
+        },
+        {
+          "id": 316352
+        }
+      ]
+    },
+    "WG-secure-code": {
+      "name": "WG-secure-code",
+      "members": [
+        {
+          "id": 409696
+        },
+        {
+          "id": 455138
+        },
+        {
+          "email": "alex.gaynor@gmail.com"
+        },
+        {
+          "email": "shnatsel@gmail.com"
+        },
+        {
+          "email": "tony@iqlusion.io"
+        }
+      ]
+    },
+    "WG-security-response": {
+      "name": "WG-security-response",
+      "members": [
+        {
+          "id": 121055
+        },
+        {
+          "id": 138448
+        }
+      ]
+    },
+    "WG-triage": {
+      "name": "WG-triage",
+      "members": [
+        {
+          "id": 120823
+        },
+        {
+          "id": 217081
+        },
+        {
+          "id": 239861
+        },
+        {
+          "id": 307537
+        },
+        {
+          "email": "alice.i.cecile@gmail.com"
+        },
+        {
+          "email": "ben.striegel@gmail.com"
+        },
+        {
+          "email": "crlf0710@gmail.com"
+        },
+        {
+          "email": "edmilson.efs@gmail.com"
+        },
+        {
+          "email": "joelpalmer@gmail.com"
+        },
+        {
+          "email": "johncsimon@gmail.com"
+        },
+        {
+          "email": "owen@devosmium.xyz"
+        }
+      ]
+    },
+    "WG-unsafe-code-guidelines": {
+      "name": "WG-unsafe-code-guidelines",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 120791
+        },
+        {
+          "id": 132829
+        },
+        {
+          "id": 198590
+        },
+        {
+          "id": 271719
+        },
+        {
+          "id": 310518
+        }
+      ]
+    },
+    "initiative-keyword-generics": {
+      "name": "initiative-keyword-generics",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 124288
+        },
+        {
+          "id": 211722
+        },
+        {
+          "email": "rust@lcnr.de"
+        }
+      ]
+    },
+    "project-exploit-mitigations": {
+      "name": "project-exploit-mitigations",
+      "members": [
+        {
+          "id": 138448
+        },
+        {
+          "id": 295814
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "org": "rust-lang",
+  "name": "libc",
+  "description": "Raw bindings to platform APIs for Rust",
+  "bots": [
+    "bors",
+    "highfive",
+    "rustbot"
+  ],
+  "teams": [
+    {
+      "name": "crate-maintainers",
+      "permission": "maintain"
+    }
+  ],
+  "members": [],
+  "branches": [
+    {
+      "name": "master",
+      "ci_checks": [],
+      "dismiss_stale_review": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "org": "rust-lang",
+  "name": "rust-analyzer",
+  "description": "A Rust compiler front-end for IDEs",
+  "bots": [
+    "bors",
+    "rustbot"
+  ],
+  "teams": [
+    {
+      "name": "wg-rls-2-triage",
+      "permission": "triage"
+    },
+    {
+      "name": "wg-rls-2",
+      "permission": "write"
+    }
+  ],
+  "members": [],
+  "branches": [
+    {
+      "name": "master",
+      "ci_checks": [],
+      "dismiss_stale_review": false
+    }
+  ]
+}

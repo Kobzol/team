@@ -1,0 +1,20 @@
+{
+  "org": "rust-lang",
+  "name": "cc-rs",
+  "description": "Rust library for build scripts to compile C/C++ code into a Rust library",
+  "bots": [],
+  "teams": [
+    {
+      "name": "crate-maintainers",
+      "permission": "maintain"
+    }
+  ],
+  "members": [],
+  "branches": [
+    {
+      "name": "main",
+      "ci_checks": [],
+      "dismiss_stale_review": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "org": "rust-lang",
+  "name": "backtrace-rs",
+  "description": "Backtraces in Rust",
+  "bots": [],
+  "teams": [
+    {
+      "name": "crate-maintainers",
+      "permission": "maintain"
+    }
+  ],
+  "members": [
+    {
+      "name": "alexcrichton",
+      "permission": "write"
+    }
+  ],
+  "branches": [
+    {
+      "name": "master",
+      "ci_checks": [],
+      "dismiss_stale_review": false
+    }
+  ]
+}

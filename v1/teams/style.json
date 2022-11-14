@@ -1,0 +1,57 @@
+{
+  "name": "style",
+  "kind": "team",
+  "subteam_of": "lang",
+  "members": [
+    {
+      "name": "Caleb Cartwright",
+      "github": "calebcartwright",
+      "github_id": 13042488,
+      "is_lead": true
+    },
+    {
+      "name": "Michael Goulet",
+      "github": "compiler-errors",
+      "github_id": 3674314,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": false
+    },
+    {
+      "name": "Jane Lusby",
+      "github": "yaahc",
+      "github_id": 1993852,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "style",
+        "members": [
+          13042488,
+          3674314,
+          162737,
+          1993852
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Style team",
+    "description": "Defining and evolving the default Rust coding style",
+    "page": "style",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "t-style",
+    "weight": 0
+  },
+  "discord": []
+}
