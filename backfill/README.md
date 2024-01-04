@@ -5,3 +5,8 @@ Usage:
 ```bash
 $ cargo run --bin fetch-repos > repos.json
 ```
+
+Create missing repos:
+```bash
+$ cargo run --bin create-repo-files
+```
