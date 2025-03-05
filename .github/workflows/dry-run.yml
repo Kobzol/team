@@ -59,7 +59,7 @@ jobs:
       #          cargo build
       #          ./target/debug/sync-team print-plan --team-json team-api > output.txt
       - name: Run sync-team dry-run check
-        run: printf "FOO\nBAR" > output.txt
+        run: printf "FOO\nBAR123" > output.txt
 
       - name: Prepare comment
         run: |
