@@ -63,12 +63,12 @@ jobs:
           <summary>Dry-run check results</summary>
           EOL
           cat output.txt >> comment.txt
-          echo "</details>" >> comment.txt
-          
+          printf "\n</details>\n" >> comment.txt
+
           cat comment.txt
 
       - name: Send comment
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh pr comment ${{ github.event.workflow_run.pull_requests[0].number }} --body-file comment.txt
+          gh pr comment ${{ github.event.workflow_run.pull_requests[0].number }} --body-file comment.txt --repo kobzol/team
