@@ -80,9 +80,12 @@ jobs:
           # --edit-last doesn't work if there is no previous comment, so we have to figure out
           # if we should create a comment or not
           PR=${{ github.event.workflow_run.pull_requests[0].number }}
-          if gh issue view ${PR} --json comments \
+          gh issue view ${PR} --repo kobzol/team --json comments --jq '.comments.[].author.login'
+          if gh issue view ${PR} --repo kobzol/team --json comments \
             --jq '.comments.[].author.login' | grep --quiet --fixed-strings "github-actions"; then
+            echo "Editing comment"
             gh pr comment ${PR} --body-file comment.txt --repo kobzol/team --edit-last
           else
+            echo "Creating new comment"
             gh pr comment ${PR} --body-file comment.txt --repo kobzol/team
           fi
