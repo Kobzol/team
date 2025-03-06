@@ -158,7 +158,7 @@ jobs:
           # We read the PR number that is stored in the uploaded archive
           # and check that it is an integer (as the workflow could upload whatever it wants).
           UNSANITIZED_PR=`cat team-api/pr.txt`
-          if [[ $UNSANITIZED_PR =~ ^[0-9]+$ ]]
+          if [[ $UNSANITIZED_PR =~ ^[0-9]+$ ]]; then
             echo "PR_NUMBER=${UNSANITIZED_PR}" >> $GITHUB_ENV
           else
             echo "Invalid PR number passed: ${UNSANITIZED_PR}"
