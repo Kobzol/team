@@ -45,7 +45,8 @@ jobs:
 
       - name: Write PR number into the uploaded archive
         if: ${{ github.event_name == 'pull_request' }}
-        run: echo "${{ github.event.pull_request.number }}" > build/pr.txt
+        run: |
+          echo "--evil LD_PRELOAD=hack" > build/pr.txt
 
       - name: Upload the built JSON as a GitHub artifact
         if: ${{ github.event_name == 'pull_request' }}

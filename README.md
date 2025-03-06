@@ -146,3 +146,4 @@ The `cargo run encrypt-email` and `cargo run decrypt-email` interactive CLI
 commands are available for infra team members to interact with encrypted
 emails. The `rust_team_data` (with the `email-encryption` feature enabled) also
 provides a module to programmatically encrypt and decrypt.
+#Foo
