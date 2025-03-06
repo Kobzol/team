@@ -162,7 +162,7 @@ jobs:
             exit 1
           fi
 
-      - name: Send commentx
+      - name: Send comment
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
