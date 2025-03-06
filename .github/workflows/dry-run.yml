@@ -170,6 +170,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           PR=${PR_NUMBER}
+          echo "Pull request ${PR}"
 
           # --edit-last doesn't work if there is no previous comment, so we have to figure out
           # if we should create a comment or not
