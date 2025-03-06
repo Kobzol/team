@@ -6,7 +6,7 @@ jobs:
   ci:
     name: CI
     runs-on: ubuntu-latest
-    if: github.repository == 'rust-lang/team'
+    #    if: github.repository == 'rust-lang/team'
     permissions:
       id-token: write
     steps:
