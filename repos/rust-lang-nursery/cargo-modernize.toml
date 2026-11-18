@@ -1,0 +1,6 @@
+org = "rust-lang-nursery"
+name = "cargo-modernize"
+description = "checks for unmaintained crates and abandoned interfaces to crates"
+bots = []
+
+[access.teams]
